@@ -1,0 +1,75 @@
+body{
+    font-family: Arial, sans-serif;
+}
+.book-store{
+    width: 300px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    background: linear-gradient(60deg,black,greenyellow,black);
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+}
+.input-field{
+    font-size: 18px;
+    border: none;
+    outline: none;
+    margin: 5px;
+    height: 35px;
+    border-radius: 5px;
+    width: 220px;
+}
+select{
+    font-size: 18px;
+    height: 40px;
+    width: 220px;
+    margin: 5px;
+    border-radius: 5px;
+    outline: none;
+}
+#submit-btn{
+    background: linear-gradient(60deg,black,greenyellow,black);
+    color: white;
+    border: none;
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px 25px;
+    width: 220px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    outline: none;
+}
+#submit-btn:hover{
+    background: linear-gradient(60deg,greenyellow,black,greenyellow);
+}
+table , th , td{
+    margin: auto;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    width: 100%;
+    box-shadow: 0 0 5px black;
+}
+thead{
+    background: linear-gradient(60deg,black,greenyellow,black);
+    color: white;
+    padding: 15px;
+}
+tbody tr:nth-child(even){
+    background-color: lightcyan;
+}
+tbody tr:nth-child(odd){
+    background-color: lightgreen;
+}
+#msg-div h3{
+    padding: 10px;
+    border-radius: 50px;
+    background-color:lightgreen;
+    text-align: center;
+    width: 300px;
+    margin: 20px auto;
+    box-shadow: 0 0 5px black;
+    color: white;
+}

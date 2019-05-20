@@ -1,0 +1,21 @@
+section{
+    background-color: lightgreen;
+    text-align: center;
+    padding: 15px;
+}
+form{
+    box-shadow: 0 0 10px black;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+select{
+    font-size: 25px;
+    height: 35px;
+    border: 1px solid lightgreen;
+    outline: none;
+    border-radius: 5px;
+    margin: 10px;
+}

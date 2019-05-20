@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="../bootstrap/css/font-awesome-5.8.1.css">
+    <link rel="stylesheet" href="styles.css">
+    <title>Book Store</title>
+</head>
+<body>
+
+    <!-- Message Section -->
+    <div id="msg-div">
+
+    </div>
+
+    <!-- Book Store Form -->
+    <section class="book-store">
+        <h2>Book Store</h2>
+        <form id="store-form">
+            <div class="form-group">
+                <input type="text" placeholder="Book Name" class="input-field" id="book-name">
+            </div>
+            <div class="form-group">
+                <input type="text" placeholder="Author Name" class="input-field" id="author-name">
+            </div>
+            <div class="form-group">
+                <input type="number" placeholder="ISBN Number" class="input-field" id="isbn-number">
+            </div>
+            <div class="form-group">
+                <select id="category-name">
+                    <option value="">Select a Category</option>
+                    <option value="Computers">Computers</option>
+                    <option value="Electronics">Electronics</option>
+                    <option value="Env Science">Env Science</option>
+                    <option value="Mechanical">Mechanical</option>
+                    <option value="Aeronautical">Aeronautical</option>
+                </select>
+            </div>
+            <input type="submit" value="Add Book" id="submit-btn">
+        </form>
+    </section>
+
+    <!-- Table Section -->
+    <table>
+        <thead>
+            <tr>
+                <th>SNO</th>
+                <th>Book Name</th>
+                <th>Author Name</th>
+                <th>ISBN Number</th>
+                <th>Category</th>
+                <th>#</th>
+            </tr>
+        </thead>
+        <tbody id="table-body">
+
+        </tbody>
+    </table>
+
+<!-- Scripts -->
+<script src="script.js"></script>
+</body>
+</html>

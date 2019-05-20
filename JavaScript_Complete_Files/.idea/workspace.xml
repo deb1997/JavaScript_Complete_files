@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d027573-fcb9-464a-a86e-bc45cb0ca47f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="07_script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_JS_Arrays/07_script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="81" column="89" selection-start-line="81" selection-start-column="89" selection-end-line="81" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/06_JS_Objects/06_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation/10_script.js" />
+        <option value="$PROJECT_DIR$/11_JS_DOM_Events/11_JS_DOM_Events.html" />
+        <option value="$PROJECT_DIR$/11_JS_DOM_Events/11_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_ONE/styles.css" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_TWO/10_JS_DOM_Manipulation_TWO.html" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_TWO/10_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_Three/10_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_Dependent Select_Box/10_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_ONE/10_script.js" />
+        <option value="$PROJECT_DIR$/10_JS_DOM_Manipulation_ONE/10_JS_DOM_Manipulation_ONE.html" />
+        <option value="$PROJECT_DIR$/17_JS_Promises/17_app.js" />
+        <option value="$PROJECT_DIR$/18_JS_Scopes_Closures/18_app.js" />
+        <option value="$PROJECT_DIR$/19_ES6_TemplateStrings/19_script.js" />
+        <option value="$PROJECT_DIR$/20_ES6_Let_Consts/20_script.js" />
+        <option value="$PROJECT_DIR$/02_JS_Variable_Declaration/02_script.js" />
+        <option value="$PROJECT_DIR$/03_JS_Data_Types/03_script.js" />
+        <option value="$PROJECT_DIR$/04_JS_Operators/04_script.js" />
+        <option value="$PROJECT_DIR$/05_JS_Conditional_Statements/05_script.js" />
+        <option value="$PROJECT_DIR$/07_JS_Arrays/07_script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-31" />
+    <option name="y" value="6" />
+    <option name="width" value="1312" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaScript_Complete_Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript_Complete_Files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript_Complete_Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript_Complete_Files" type="462c0819:PsiDirectoryNode" />
+              <item name="07_JS_Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d027573-fcb9-464a-a86e-bc45cb0ca47f" name="Default" comment="" />
+      <created>1552795699435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552795699435</updated>
+      <workItem from="1552795702927" duration="2181000" />
+      <workItem from="1552909763182" duration="8000" />
+      <workItem from="1552923408455" duration="124000" />
+      <workItem from="1553057215751" duration="718000" />
+      <workItem from="1553090341846" duration="377000" />
+      <workItem from="1553095940458" duration="6466000" />
+      <workItem from="1553141476131" duration="2475000" />
+      <workItem from="1553154791034" duration="3458000" />
+      <workItem from="1553158791418" duration="3913000" />
+      <workItem from="1553182943433" duration="597000" />
+      <workItem from="1553227151208" duration="3884000" />
+      <workItem from="1553242855140" duration="2699000" />
+      <workItem from="1553324324216" duration="5541000" />
+      <workItem from="1553575101054" duration="1221000" />
+      <workItem from="1553660346474" duration="4674000" />
+      <workItem from="1553692679446" duration="1042000" />
+      <workItem from="1553709199773" duration="67000" />
+      <workItem from="1553847565313" duration="6155000" />
+      <workItem from="1553878437166" duration="2807000" />
+      <workItem from="1553935802602" duration="1100000" />
+      <workItem from="1554127318690" duration="285000" />
+      <workItem from="1554136464195" duration="298000" />
+      <workItem from="1554136794698" duration="3246000" />
+      <workItem from="1554177151971" duration="9290000" />
+      <workItem from="1554195104944" duration="338000" />
+      <workItem from="1554224739043" duration="15000" />
+      <workItem from="1554296869237" duration="2025000" />
+      <workItem from="1554305896817" duration="205000" />
+      <workItem from="1554317611337" duration="42000" />
+      <workItem from="1554317742424" duration="2466000" />
+      <workItem from="1554398964307" duration="3062000" />
+      <workItem from="1554460722345" duration="2154000" />
+      <workItem from="1554523666285" duration="4228000" />
+      <workItem from="1554608460627" duration="2225000" />
+      <workItem from="1554641773422" duration="1744000" />
+      <workItem from="1554797836329" duration="4822000" />
+      <workItem from="1554884250511" duration="1877000" />
+      <workItem from="1554922214264" duration="5638000" />
+      <workItem from="1554959121125" duration="2858000" />
+      <workItem from="1554978533874" duration="3180000" />
+      <workItem from="1555041056637" duration="3163000" />
+      <workItem from="1555093275528" duration="1880000" />
+      <workItem from="1555129192421" duration="3211000" />
+      <workItem from="1555180296177" duration="4309000" />
+      <workItem from="1555265111314" duration="1834000" />
+      <workItem from="1555307019453" duration="1970000" />
+      <workItem from="1555343037735" duration="5095000" />
+      <workItem from="1555386737164" duration="2105000" />
+      <workItem from="1555604956787" duration="1529000" />
+      <workItem from="1555649267580" duration="2357000" />
+      <workItem from="1555732649611" duration="5234000" />
+      <workItem from="1555840097891" duration="2283000" />
+      <workItem from="1555952790174" duration="466000" />
+      <workItem from="1555953428409" duration="2634000" />
+      <workItem from="1555956530176" duration="931000" />
+      <workItem from="1555991460778" duration="1956000" />
+      <workItem from="1556046598757" duration="168000" />
+      <workItem from="1556275184757" duration="478000" />
+      <workItem from="1556354560865" duration="37000" />
+      <workItem from="1557550173828" duration="2527000" />
+      <workItem from="1557634284747" duration="4517000" />
+      <workItem from="1557664340812" duration="3263000" />
+      <workItem from="1557767870191" duration="21000" />
+      <workItem from="1558175146402" duration="9410000" />
+      <workItem from="1558198577542" duration="1573000" />
+      <workItem from="1558269404500" duration="3135000" />
+      <workItem from="1558287938730" duration="1094000" />
+      <workItem from="1558327406827" duration="3683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="170368000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.17857143" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.50165015" side_tool="true" weight="0.17857143" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/08_JS_Functions/08_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4050">
+          <caret line="135" column="24" lean-forward="true" selection-start-line="135" selection-start-column="24" selection-end-line="135" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_JS_Math_Date_Objects/09_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_JS_Arrays/07_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="98" column="26" lean-forward="true" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_JS_Arrays/07_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_JS_Functions/08_script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_JS_Conditional_Statements/05_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9180">
+          <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_JS_Conditional_Statements/05_Conditional_Statements.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_JS_Conditional_Statements/05_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="108" column="20" lean-forward="true" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_JS_Conditional_Statements/05_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="106" column="16" lean-forward="true" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_JS_Operators/04_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_JS_Basics_JS/01_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_JS_Variable_Declaration/02_script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_JS_Data_Types/03_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_JS_Operators/04_Operators.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation/10_JS_DOM_Manipulation.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation_TWO/10_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation_TWO/10_JS_DOM_Manipulation_TWO.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation_ONE/10_JS_DOM_Manipulation_ONE.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_JS_Math_Date_Objects/09_JS_Math_Date_Objects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_JS_Objects/06_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-702" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_JS_Operators/04_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation_Three/10_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_JS_DOM_Manipulation_Three/10_JS_DOM_Manipulation_Three.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_JS_Conditional_Statements/05_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9180">
+          <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_JS_Conditional_Statements/05_Conditional_Statements.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_JS_CallBack_Functions/16_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_JS_Functions/08_JS_Functions.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_JS_Math_Date_Objects/09_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_JS_Functions/08_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4050">
+          <caret line="135" column="24" selection-start-line="135" selection-start-column="24" selection-end-line="135" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_JS_Arrays/07_JS_Arrays.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_JS_Arrays/07_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="81" column="89" selection-start-line="81" selection-start-column="89" selection-end-line="81" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

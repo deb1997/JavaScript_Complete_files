@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS DOM Events</title>
+    <link rel="stylesheet" href="../bootstrap/css/animate.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="domStyles.css">
+</head>
+<body>
+
+<nav>
+    <a href="#">JS DOM Events</a>
+</nav>
+
+<!-- Change the Wish Message -->
+<section>
+    <h2 id="msg"></h2>
+    <button onclick="displayWishMessage('Good Morning','orangered')">Good Morning</button>
+    <button onclick="displayWishMessage('Good Afternoon','blue')">Good Afternoon</button>
+    <button onclick="displayWishMessage('Good Evening' , 'teal')">Good Evening</button>
+    <button onclick="displayWishMessage('Good Night','black')">Good Night</button>
+</section>
+
+<!-- Change the Wish Message -->
+<section>
+    <h2 id="new-msg"></h2>
+    <button id="good-morning">Good Morning</button>
+    <button id="good-afternoon">Good Afternoon</button>
+    <button id="good-evening">Good Evening</button>
+    <button id="good-night">Good Night</button>
+</section>
+
+<!-- Change the Images -->
+<section>
+    <figure>
+        <img id="image" src="../img/image1.jpg" class="animated jello">
+        <figcaption id="figcaption">Image 1</figcaption>
+    </figure>
+    <button onclick="changeImage('image1.jpg' , 'Image 1')">Image 1</button>
+    <button onclick="changeImage('image2.jpg' , 'Image 2')">Image 2</button>
+    <button onclick="changeImage('image3.jpeg' , 'Image 3')">Image 3</button>
+    <button onclick="changeImage('image4.jpeg' , 'Image 4')">Image 4</button>
+    <button onclick="changeImage('image5.jpeg' , 'Image 5')">Image 5</button>
+    <button onclick="changeImage('image6.jpeg' , 'Image 6')">Image 6</button>
+    <button onclick="changeImage('image7.jpeg' , 'Image 7')">Image 7</button>
+</section>
+
+<script src="11_script.js"></script>
+</body>
+</html>

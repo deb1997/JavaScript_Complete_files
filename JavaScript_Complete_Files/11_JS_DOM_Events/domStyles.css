@@ -1,0 +1,29 @@
+body{
+    margin-bottom: 100px;
+}
+section{
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+button{
+    font-size: 25px;
+    padding: 10px 25px;
+}
+figure{
+    border: 2px solid blue;
+    width: 300px;
+    margin: 15px auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+figure img{
+    width: 100%;
+    border-radius: 10px;
+}
+figcaption{
+    padding: 10px;
+    font-size: 25px;
+    color: blue;
+}
